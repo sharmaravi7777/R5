@@ -1,6 +1,17 @@
-#include "myMath.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include "mymath1.h"
 
-void addFunc()
+void add(int a, int b, int res)
 {
-    printf("From addFunc tomntorrwe + updated\n");
+    a=2;
+    b=2;
+
+    res=a+b;
+
+
+
+    printf("%d vjxyz",res);
+
+
 }
